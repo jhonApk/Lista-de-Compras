@@ -41,7 +41,7 @@ Viewbinding, Navbar
 📄 Licença
 Este projeto está sob a licença [MIT]. Consulte o arquivo LICENSE para mais informações.
 
-💬 Contato
-📧 E-mail: [devjhon.mobile@gmail.com]
-🌐 LinkedIn: [https://www.linkedin.com/in/devjhon/]
+##💬 **Contato**
+- 📧 **E-mail:** [devjhon.mobile@gmail.com]
+- 🌐 **LinkedIn:** [https://www.linkedin.com/in/devjhon/]
 
