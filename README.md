@@ -1,5 +1,5 @@
 # Lista-de-Compras
-##📋 **Descrição**
+###📋 **Descrição**
 [O intuito inicial desse aplicativo é ser uma app para fazer e comparar suas compras mesais ou semanais, conseguindo atribuir os valores e marcas dos intens, futuramente pretendo adicionar um compartilhamento coletivo entre as listas, e conseguir mapear para o cliete o local mais barato naquele momento baseado em compras de outras pessoas, junto a isso pesquisa de supermercados, e conveniencias e pequenos comercios será adicionado no mapa.]
 
 ---
